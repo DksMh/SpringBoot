@@ -21,7 +21,7 @@
 ### mysql DDL
 ![mysql_createtable](https://user-images.githubusercontent.com/96456838/186808227-0e8fc6f4-a692-4d3f-98e9-4c81ffe27a71.png)
 
-### DML문(src/main/resources/mappers/PostMapper.xml)
+### DML문(#src/main/resources/mappers/PostMapper.xml)
 src/main/resources/mappers/PostMapper.xml
 
 ### 게시판 동작 동영상
