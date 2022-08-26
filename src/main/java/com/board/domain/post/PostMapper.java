@@ -4,6 +4,11 @@ import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
+
+import org.apache.ibatis.annotations.Mapper;
+
+import java.util.List;
+
 @Mapper
 public interface PostMapper {
 
@@ -19,7 +24,7 @@ public interface PostMapper {
      * @return 게시글 상세정보
      */
     PostResponse findById(Long id);
-    
+
     /**
      * 게시글 수정
      * @param params - 게시글 정보
